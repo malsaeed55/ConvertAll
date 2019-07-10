@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ConvertAll</string>
+    <string name="txt1">Add Number</string>
+    <string name="txt2">Convert</string>
+    <string name="btn1">Convert Mile to KM</string>
+    <string name="btn2">Convert KM to Mile</string>
+    <string name="bnt3">Convert Inches to CM</string>
+    <string name="btn4">Convert CM to Inches</string>
+    <string name="btn5">Convert KG to Pound</string>
+    <string name="btn6">Convert Pound to KG</string>
+    <string name="btn7">Clear</string>
+
+    <string name="clear">Clear</string>
+    <string name="mile_to_km">Mile to KM</string>
+    <string name="km_to_mile">km to mile</string>
+    <string name="inches_to_cm">inches to cm</string>
+    <string name="cm_to_inches">cm to inches</string>
+    <string name="kg_to_pound">kg to pound</string>
+    <string name="pound_to_kg">pound to kg</string>
+
+</resources>
